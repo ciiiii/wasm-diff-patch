@@ -1,0 +1,9 @@
+[build]
+  command = "./build.sh"
+  functions = "functions"
+  publish = "public"
+
+[build.environment]
+  GOOS = "js"  
+  GOARCH = "wasm"
+  GO111MODULE = "on"
