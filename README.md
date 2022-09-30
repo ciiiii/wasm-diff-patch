@@ -1,5 +1,7 @@
 # wasm-diff-patch
 
+Available in [wasm-diff-patch.netlify.app](https://wasm-diff-patch.netlify.app)
+
 ## Build
 
 ```bash
