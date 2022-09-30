@@ -10,6 +10,6 @@ GOOS=js GOARCH=wasm go build -o main.wasm main.go
 ## Run
 
 ```bash
-go get github.com/mattn/serve
+GO111MODULE=off go get github.com/mattn/serve
 serve
 ```
