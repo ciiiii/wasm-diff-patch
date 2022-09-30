@@ -7,3 +7,4 @@
   GOOS = "js"  
   GOARCH = "wasm"
   GO111MODULE = "on"
+  GO_VERSION = "1.18.1"
